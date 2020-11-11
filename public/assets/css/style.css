@@ -1,0 +1,25 @@
+.header .progressBarHeader {
+	height:20px;
+	background-color: #9e9e9e
+}
+
+.footer .progressBarScore {
+	height:32px;
+	width:500px;
+	border:2px solid #000;
+	text-align:center;
+	border-radius: 10px;
+	margin: 10px auto;
+   }
+
+.footer .scoring {
+	display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0px auto;
+    width: 500px;
+}
+
+.footer .scoring p {
+	margin: 0px;
+}
